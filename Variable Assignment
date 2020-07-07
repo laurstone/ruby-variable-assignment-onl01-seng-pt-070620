@@ -1,2 +1,3 @@
 puts greeting
-greeting = "learn"
+greeting = 'learn'
+./variable.rb defined a local variable called greeting and set it equal to 'learn' 
